@@ -1,0 +1,52 @@
+
+
+
+body {
+    font-family: arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+  }
+  
+
+  
+  button.UP{
+    background-color: #4caf50;
+    color: rgb(255, 255, 255);
+  }
+  button.DOWN
+   {
+    background-color: #4caf50;
+    color: rgb(255, 255, 255);
+  }
+
+  button.LEFT
+  {
+   background-color: #4caf50;
+   color: rgb(255, 255, 255);
+ }
+
+ button.RIGHT
+ {
+  background-color: #4caf50;
+  color: rgb(255, 255, 255);
+}
+
+
+button.BBUTTON
+{
+ background-color: hsl(0, 100%, 50%);
+ color: rgb(255, 255, 255);
+}
+
+
+button.ABUTTON
+{
+ background-color: #ff0000;
+ color: rgb(255, 255, 255);
+}
+
+
+  
+  
